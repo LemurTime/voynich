@@ -1,4 +1,1 @@
-# nbdev template
-
-Use this template to more easily create your nbdev project.
-
+Experiments to use AI/ML methods to decipher the Voynich manuscript (https://en.wikipedia.org/wiki/Voynich_manuscript)
